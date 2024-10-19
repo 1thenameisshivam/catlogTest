@@ -1,0 +1,15 @@
+{
+  "name": "catlog_drive",
+  "version": "1.0.0",
+  "main": "shamir_secret_sharing.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bignumber.js": "^9.1.2"
+  }
+}
